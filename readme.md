@@ -1,6 +1,7 @@
 #Smart City Hackathon Rajkot 2020-21
 
-#A Project Report On
+A Project Report On
+---
 
 ###Industry Type: Environment
 ###Problem ID:  SCHR033						   
