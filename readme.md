@@ -58,9 +58,11 @@ Tools and technologies to be used to solve the problem –
 Challenges/Risk in implementing your Final prototype - 
 ---
 Same time weather not good and the chance to may damage gadgets, so data could not be received. If the internet is not working at that time, connectivity will be affected, and the server could not get data.  
+
 Possible outcome of your work - 
 ---
 Citizen will aware to save the environment, At RMC public place trees will we automatically care by our project, our app will help to get a sapling from NGOs and care trees by using our services.  
+
 Work done till date - 	
 ---
 We have done Complete Analysis of this project, we also visited nearest nursery understand types of soils, plants, at how much humidity it required.  
