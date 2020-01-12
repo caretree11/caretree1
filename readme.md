@@ -4,17 +4,18 @@ Smart City Hackathon Rajkot 2020-21
 A Project Report On
 ---
 
-###Industry Type: Environment  
-###Problem ID:  SCHR033  			   
-###Problem Statement: Plant a tree app  
-###Team ID: TM000079  
-###Team Leader Details: Aghera Kevin Bipinbhai  
-###Faculty Details: Niraj Bhagchandani  
+**Industry Type: Environment**  
+**Problem ID:  SCHR033**  
+**Problem Statement: Plant a tree app**  
+**Team ID: TM000079**  
+**Team Leader Details: Aghera Kevin Bipinbhai**  
+**Faculty Details: Niraj Bhagchandani**  
 
-###Team Members:
-####1.	Aghera Kevin Bipinbhai (kpatel9899s@gmail.com)
-####Contact No. : 8140169137
-####MCA Semester - 4 , Atmiya University – Rajkot
+Team Members:
+---
+#1.	Aghera Kevin Bipinbhai (kpatel9899s@gmail.com)
+#Contact No. : 8140169137
+#MCA Semester - 4 , Atmiya University – Rajkot
 
 ####2.	Changela Savan Prasudbhai (savan.changela273@gmail.com) 
 ####Contact No. : 9537839403
