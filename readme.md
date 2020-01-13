@@ -31,9 +31,11 @@ Team Members:
 
 Synopsis Abstract –
 ---
-CareTree is designed to aware and motivate citizens to grow trees ad take care of trees. For that citizens can request to NGO for sapling or plant a tree in the neighborhoods.  
-We build the app for that citizen can request trees from directly NGO and NGO team can accept that request and deliver the sapling to the citizen. 	NGO member came with Tree kit having sapling, tree caring gadget and tree protection cage. After that our app will provide all facility like water manage, damage control and same informatics notification.  
-If citizen don't need to plant tree but want to care the trees, For that we are provide map facalitie in our app to where the trees are damaged or having same problem. If citizen near that location they can help tree, example if tree water level down, cage damaged or other issues.  
+*CareTree is designed to aware and motivate citizens to grow trees ad take care of trees. For that citizens can request to NGO for sapling or plant a tree in the neighborhoods.  
+
+*We build the app for that citizen can request trees from directly NGO and NGO team can accept that request and deliver the sapling to the citizen. 	NGO member came with Tree kit having sapling, tree caring gadget and tree protection cage. After that our app will provide all facility like water manage, damage control and same informatics notification.  
+
+*If citizen don't need to plant tree but want to care the trees, For that we are provide map facalitie in our app to where the trees are damaged or having same problem. If citizen near that location they can help tree, example if tree water level down, cage damaged or other issues.  
 
 Literature Review/Existing Innovation-technology to address related to your problem –
 ---
