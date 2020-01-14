@@ -121,3 +121,19 @@ nav .nav-lef {
 .head{
   font-size: 22px;
 }
+.nav-c{
+  color: #fff !important;
+  text-decoration: none !important;
+  padding-right: 15px !important;
+}
+.nav-c:hover{
+  color:rgba(255,255,255,255);
+}
+@media (min-width: 992px) {
+  .RqTree{
+    visibility: hidden;
+  }
+}
+.navbar-brand{
+  margin:0;
+}
