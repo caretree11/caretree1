@@ -137,3 +137,8 @@ nav .nav-lef {
 .navbar-brand{
   margin:0;
 }
+@media only screen and (min-width: 992px) {
+    .hidedesktop {
+        display:none;
+    }
+}
