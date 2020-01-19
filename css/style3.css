@@ -6,7 +6,7 @@
 }
 body {
     font-family: 'Poppins', sans-serif;
-    background: #fafafa;
+    background: #fff;
 }
 
 p {
@@ -27,7 +27,6 @@ a:focus {
 
 .navbar {
     padding: 15px 10px;
-    
     border: none;
     border-radius: 0;
     margin-bottom: 40px;
@@ -35,7 +34,9 @@ a:focus {
     opacity: 1;
     transition: opacity 0.9s ease;
 }
-
+.navbar-x{
+  background-color: #4e7c4e !important;
+}
 .navbar-btn {
     box-shadow: none;
     outline: none !important;
@@ -424,7 +425,7 @@ test
     padding: 0.25rem;
     }
     .card-img-overlay .card-title{
-        margin-bottom: 0.5rem
+        margin-bottom: 0rem
     }
     .card-img-overlay p{
         margin-bottom: 0rem;
@@ -449,10 +450,7 @@ test
   bottom: 20px; 
   right: 30px; 
   z-index: 99;
-  
-  
   color: #004e00; 
-  
   cursor: pointer;
   padding: 15px; 
   
@@ -474,13 +472,25 @@ footer{
 }
 .login-form{
   width: 290px;
-  background: #222 url('../img/bg2.png') center center no-repeat;
+  background:  url('../img/bg2.png') center center no-repeat;
   height: 370px;
   padding:30px 40px 15px 40px;
   border-radius: 10px;
   position: absolute;
   left: 50%;
   top: 45%;
+  z-index: 5;
+  transform: translate(-50%,-50%);
+}
+.register-form{
+  width: 290px;
+  background:  url('../img/bg2.png') center center no-repeat;
+  height: 660px;
+  padding:30px 40px 15px 40px;
+  border-radius: 10px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
   z-index: 5;
   transform: translate(-50%,-50%);
 }
@@ -545,6 +555,41 @@ footer{
 
 .logbtn:hover{
   background-position: right;
+}
+.txtb1{
+  border-bottom: 2px solid #fff;
+  position: relative;
+  margin: 30px 0;
+}
+
+.txtb1 select{
+  font-size: 15px;
+  color: #fff;
+  border: none;
+  width: 100%;
+  outline: none;
+  background: none;
+  padding: 0 5px;
+  height: 40px;
+}
+
+.txtb1 span::before{
+  content: attr(data-placeholder);
+  position: absolute;
+  top: 25%;
+  left: 5px;
+  color: #fff;
+  transform: translateY(-50%);
+  z-index: 0;
+  
+}
+
+
+.focus + span::before{
+  top: -5px;
+}
+.focus + span::after{
+  width: 10%;
 }
 
 .bottom-text{
@@ -613,4 +658,49 @@ footer{
     /*position: relative;
     top: 2px;
     left: 4px;*/
+}
+
+select.animationlist {
+  
+  display: inline-block;
+  height: 40px;
+  padding: 10px 13px;
+  
+  background: #407844;
+  color:#fff;
+  border: none;
+  border-radius: 0;
+  cursor: pointer;
+  outline: none;
+}
+
+select.animationlist:hover {
+  box-shadow: 0 0 0 1px #fff inset;
+}
+select.animationlist:focus {
+  box-shadow: 0 0 0 2px #fff inset;
+  text-decoration: none;
+  outline: none;
+}
+option:checked, option:hover {
+    color: #fff;
+    background: #488f8f;
+}
+#content-x {
+    width: 100%;
+    min-height: 100vh;
+    transition: all 0.3s;
+    position: absolute;
+    top: 16%;
+    right: 0;
+}
+.card-trans{
+  background: transparent !important;
+  position: absolute;
+  z-index: 1;
+  float: right;
+  right:0%;
+}
+.text-l{
+  text-align: left;
 }
