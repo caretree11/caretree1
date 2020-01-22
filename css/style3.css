@@ -263,6 +263,7 @@ nav ul .nav-item{
     }
     footer{
         margin-top: 0px;
+        clear: left;
     }
 
 }
@@ -469,6 +470,7 @@ test
 footer{
     margin-top: 5px;
     background-color: #000008;
+    clear: left;
 }
 .login-form{
   width: 290px;
@@ -486,7 +488,7 @@ footer{
   width: 290px;
   background:  url('../img/bg2.png') center center no-repeat;
   height: 660px;
-  padding:30px 40px 15px 40px;
+  padding:15px 40px 15px 40px;
   border-radius: 10px;
   position: absolute;
   left: 50%;
@@ -576,7 +578,34 @@ footer{
 .txtb1 span::before{
   content: attr(data-placeholder);
   position: absolute;
-  top: 25%;
+  top: 15%;
+  left: 5px;
+  color: #fff;
+  transform: translateY(-50%);
+  z-index: 0;
+  
+}
+.txtb2{
+  border-bottom: 2px solid #fff;
+  position: relative;
+  margin: 30px 0;
+}
+
+.txtb2 input{
+  font-size: 15px;
+  color: #fff;
+  border: none;
+  width: 100%;
+  outline: none;
+  background: none;
+  padding: 0 5px;
+  height: 40px;
+}
+
+.txtb2 span::before{
+  content: attr(data-placeholder);
+  position: absolute;
+  top: -15%;
   left: 5px;
   color: #fff;
   transform: translateY(-50%);
@@ -703,4 +732,70 @@ option:checked, option:hover {
 }
 .text-l{
   text-align: left;
+}
+.text-sm{
+   color: #fff;
+   text-align:center;
+   font-size: 10px;
+}
+.text-md{
+   color: #fff;
+   text-align:center;
+   font-size: 18px;
+}
+.wecare-card{
+  border:2px solid #004e00 !important;
+  float:left;
+  margin:0 0 10px 10px;
+  padding:6px;
+}
+.care-img{
+  height: 250px;
+}
+.rmv{
+  margin-top: 10px;
+}
+.error{
+  color: #fff;
+  font-size: 10px;
+  position: relative;
+  bottom: 30px;
+  margin-bottom: 0px: 
+}
+.logmsg{
+  color: #fff;
+  margin: 50px 0px;
+}
+.logout{
+  display: block;
+  border-radius: 5px;
+  width: 45%;
+  height: 50px;
+  border: 1px solid #fff;
+  background: transparent !important;
+  color: #fff;
+  outline: none;
+  cursor: pointer;
+  float: left;
+  margin: 0px 5px;
+}
+.modal-backdrop{
+   z-index: 1 !important;
+}
+.back_bg{
+  background-color: #004e00;
+  position: relative;
+  z-index: 1;
+}
+.cls-h{
+  background-color: #004e00; 
+}
+.text-x{
+  color: #fff;
+  font-size: 10px;
+}
+.text-xb{
+  padding-top: 2px;
+  color: #fff;
+  font-size: 16px;
 }
