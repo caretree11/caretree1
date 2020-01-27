@@ -395,6 +395,7 @@ test
     .card-img-overlay{
     margin-top:40px;
     }
+
 }
 @media only screen and (max-width: 992px) {
     .carousel-item{
@@ -432,7 +433,10 @@ test
         margin-bottom: 0rem;
         color: #000;
     }
-    
+
+    .card-img-overlay h5{
+      font-size: 1rem;
+    }
 
 }
 .card-img-overlay p{
@@ -754,6 +758,9 @@ option:checked, option:hover {
 }
 .rmv{
   margin-top: 10px;
+}
+.gmv{
+  margin-top: 100px;
 }
 .error{
   color: #fff;
