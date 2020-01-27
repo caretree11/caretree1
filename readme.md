@@ -1,7 +1,7 @@
 Smart City Hackathon Rajkot 2020-21
 ---
 
-A Project Report On
+A Project Report On (Synopsis)
 ---
 
 **Industry Type: Environment**  
@@ -69,4 +69,9 @@ Work done till date -
 ---
 We have done Complete Analysis of this project, we also visited nearest nursery understand types of soils, plants, at how much humidity it required.  
 
+Above mentinoned details and files are just abstract of Hackathon project and part of synopsis submission, for more details you can contact as per given details of any Team members or our mentor.
+---
+
+Finally we had completed the project and win with 1st place in Smart City Hackathon Rajkot - 2020-21 - Student Startup Innovation Policy(SSIP) & Gujarat Knowledege Society(GKS)
+---
 ![Test Image 1](img/TM000079.png)
