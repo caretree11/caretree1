@@ -69,4 +69,4 @@ Work done till date -
 ---
 We have done Complete Analysis of this project, we also visited nearest nursery understand types of soils, plants, at how much humidity it required.  
 
-![Test Image 1](img/devanggarach.jpg)
+![Test Image 1](img/TM000079.png)
