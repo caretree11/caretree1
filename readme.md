@@ -21,8 +21,7 @@ Team Members:
 **Contact No. : 9537839403**  
 **MCA Semester - 4 , Atmiya University – Rajkot**  
 
-**3.	Garach Devang Bharatbhai (devanggarach@gmail.com)**  
-**Contact No. : 8460352525**  
+**3.	Garach Devang Bharatbhai (devanggarach@gmail.com)**    
 **MCA Semester - 4 , Atmiya University – Rajkot**  
 
 **4.	Panara Shivang Dilipbhai (shivangpanara@gmail.com)**  
